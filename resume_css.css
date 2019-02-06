@@ -1,5 +1,4 @@
 body {
-    background-repeat: no-repeat;
     background-image: linear-gradient(to right, #A9A9A9 0%,rgba(94, 207, 207, 0.082) 88%);
     background-blend-mode:color-burn;
     background-attachment: fixed;
